@@ -1,0 +1,6 @@
+C:\CS283-Homework1\PokemonLibrary\Pokemonlibrary\bin\Debug\Pokemonlibrary.exe.config
+C:\CS283-Homework1\PokemonLibrary\Pokemonlibrary\bin\Debug\Pokemonlibrary.exe
+C:\CS283-Homework1\PokemonLibrary\Pokemonlibrary\bin\Debug\Pokemonlibrary.pdb
+C:\CS283-Homework1\PokemonLibrary\Pokemonlibrary\obj\Debug\Pokemonlibrary.csprojResolveAssemblyReference.cache
+C:\CS283-Homework1\PokemonLibrary\Pokemonlibrary\obj\Debug\Pokemonlibrary.exe
+C:\CS283-Homework1\PokemonLibrary\Pokemonlibrary\obj\Debug\Pokemonlibrary.pdb
